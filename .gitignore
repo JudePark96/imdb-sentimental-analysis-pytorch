@@ -1,4 +1,6 @@
 .data
 .ipynb_checkpoints
 .vector_cache
+.idea
+venv
 __pycache__
